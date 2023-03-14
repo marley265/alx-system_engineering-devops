@@ -1,2 +1,3 @@
 #!/bin/bash
-tr Ac Zc
+echo Aca | tr  Ac Zc
+Zea
